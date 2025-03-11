@@ -78,4 +78,4 @@ npm run db:push
 
 ## License
 
-MIT
+MIT - silahkan email ke habizinnia@gmail.com jika butuh repo ini
